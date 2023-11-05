@@ -1,0 +1,173 @@
+cosmetics:
+  armor:
+    Owner:
+      text-color: "&4"
+      gui-color: "RED"
+      display-name: "Owner"
+      permission: "hub.armor.Owner"
+      armor-color:
+        red: 161
+        blue: 21
+        green: 21
+    Manager:
+      text-color: "&9"
+      gui-color: "BLUE"
+      display-name: "Manager"
+      permission: "hub.armor.Manager"
+      armor-color:
+        red: 21
+        blue: 68
+        green: 161
+    Developer:
+      text-color: "&b"
+      gui-color: "LIGHT_BLUE"
+      display-name: "Developer"
+      permission: "hub.armor.Developer"
+      armor-color:
+        red: 122
+        blue: 160
+        green: 235
+    Platform-Admin:
+      text-color: "&c&o"
+      gui-color: "RED"
+      display-name: "Platform Admin"
+      permission: "hub.armor.Platform-Admin"
+      armor-color:
+        red: 237
+        blue: 59
+        green: 59
+    Senior-Admin:
+      text-color: "&c"
+      gui-color: "RED"
+      display-name: "Senior Admin"
+      permission: "hub.armor.Senior-Admin"
+      armor-color:
+        red: 230
+        blue: 92
+        green: 92
+    Admin:
+      text-color: "&c"
+      gui-color: "RED"
+      display-name: "Admin"
+      permission: "hub.armor.Admin"
+      armor-color:
+        red: 235
+        blue: 122
+        green: 122
+    Senior-Mod:
+      text-color: "&3&o"
+      gui-color: "CYAN"
+      display-name: "Senior Mod"
+      permission: "hub.armor.Senior-Mod"
+      armor-color:
+        red: 81
+        blue: 137
+        green: 156
+    Mod+:
+      text-color: "&5&o"
+      gui-color: "PURPLE"
+      display-name: "Mod+"
+      permission: "hub.armor.Mod+"
+      armor-color:
+        red: 176
+        blue: 75
+        green: 242
+    Mod:
+      text-color: "&5"
+      gui-color: "PURPLE"
+      display-name: "Mod"
+      permission: "hub.armor.Mod"
+      armor-color:
+        red: 147
+        blue: 2
+        green: 242
+    Trial-Mod:
+      text-color: "&3"
+      gui-color: "CYAN"
+      display-name: "Trial Mod"
+      permission: "hub.armor.Trial-Mod"
+      armor-color:
+        red: 89
+        blue: 139
+        green: 189
+    Media:
+      text-color: "&d"
+      gui-color: "PINK"
+      display-name: "Media"
+      permission: "hub.armor.Media"
+      armor-color:
+        red: 252
+        blue: 3
+        green: 240
+    Builder:
+      text-color: "&9"
+      gui-color: "BLUE"
+      display-name: "Builder"
+      permission: "hub.armor.Builder"
+      armor-color:
+        red: 61
+        blue: 103
+        green: 186
+    Legend:
+      text-color: "&4&o"
+      gui-color: "RED"
+      display-name: "Legend"
+      permission: "hub.armor.Legend"
+      armor-color:
+        red: 186
+        blue: 37
+        green: 37
+    Emerald:
+      text-color: "&a"
+      gui-color: "LIME"
+      display-name: "Emerald"
+      permission: "hub.armor.Emerald"
+      armor-color:
+        red: 93
+        blue: 252
+        green: 141 #187, 252, 252
+    Diamond:
+      text-color: "&b"
+      gui-color: "LIGHT_BLUE"
+      display-name: "Diamond"
+      permission: "hub.armor.Diamond"
+      armor-color:
+        red: 187
+        blue: 252
+        green: 252 #230, 157, 62
+    Gold:
+      text-color: "&6"
+      gui-color: "ORANGE"
+      display-name: "Gold"
+      permission: "hub.armor.Gold"
+      armor-color:
+        red: 230
+        blue: 157
+        green: 62
+    Iron:
+      text-color: "&f"
+      gui-color: "WHITE"
+      display-name: "Iron"
+      permission: "hub.armor.Iron"
+      armor-color:
+        red: 255
+        blue: 255
+        green: 255
+servers:
+  KitMap:
+    icon: "BOW"
+    guiSlot: 12
+    display-name: "&cKitMap &f[Season 1]"
+    description:
+      - "&7"
+      - "&7On this server, you can practice"
+      - "&7your HCF skills by capturing KOTHs,"
+      - "&7fighting, playing events, and more!"
+  Squads:
+    icon: "DIAMOND_SWORD"
+    guiSlot: 14
+    display-name: "&cSquads &f[Map 1]"
+    description:
+      - "&7"
+      - "&7On this server, you play HCF"
+      - "&7and be a fucking retard."

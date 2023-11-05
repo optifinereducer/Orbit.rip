@@ -1,0 +1,5 @@
+name: AntiCheat
+author: Warzone Development
+version: 1.0.0 Beta
+website: warzone.rip
+main: rip.warzone.anticheat.AntiCheat

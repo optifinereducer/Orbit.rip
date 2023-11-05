@@ -1,0 +1,5 @@
+name: Hub
+main: rip.warzone.hub.Hub
+depend: [qLib]
+version: 1.0
+author: Warzone Development Team
